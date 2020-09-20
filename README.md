@@ -1,3 +1,4 @@
+[![Asarav's github stats](https://github-readme-stats.vercel.app/api?username=asarav)](https://github.com/asarav/github-readme-stats)
 ### Hi there 👋
 
 <!--
