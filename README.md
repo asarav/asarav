@@ -1,12 +1,17 @@
 [![Asarav's github stats](https://github-readme-stats.vercel.app/api?username=asarav)](https://github.com/asarav/github-readme-stats)
 ### Hi there 👋
 
+- Currently a student at TU Delft
+- [LinkedIn](https://www.linkedin.com/in/avinash-saravanan-profile/)
+- [Medium](https://medium.com/@asarav)
+- [Hackerrank](https://www.hackerrank.com/asarav?hr_r=1)
+
 <!--
 **asarav/asarav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m current lyworking on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
