@@ -1,7 +1,7 @@
 [![Asarav's github stats](https://github-readme-stats.vercel.app/api?username=asarav)](https://github.com/asarav/github-readme-stats)
 ### Hi there 👋
 
-- Currently a student at TU Delft
+- Graduate of TU Delft and University of Michigan.
 - [LinkedIn](https://www.linkedin.com/in/avinash-saravanan-profile/)
 - [Medium](https://medium.com/@asarav)
 - [Hackerrank](https://www.hackerrank.com/asarav?hr_r=1)
