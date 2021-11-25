@@ -1,11 +1,13 @@
-[![Asarav's github stats](https://github-readme-stats.vercel.app/api?username=asarav)](https://github.com/asarav/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asarav&theme=dracula)](https://github.com/asarav/github-readme-stats)
 ### Hi there 👋
 
 - Graduate of TU Delft and University of Michigan.
 - [LinkedIn](https://www.linkedin.com/in/avinash-saravanan-profile/)
 - [Medium](https://medium.com/@asarav)
 - [Hackerrank](https://www.hackerrank.com/asarav?hr_r=1)
+
+[![Asarav's github stats](https://github-readme-stats.vercel.app/api?username=asarav)](https://github.com/asarav/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asarav)](https://github.com/asarav/github-readme-stats)
 
 <!--
 **asarav/asarav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
