@@ -1,4 +1,5 @@
 [![Asarav's github stats](https://github-readme-stats.vercel.app/api?username=asarav)](https://github.com/asarav/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asarav&theme=dracula)](https://github.com/asarav/github-readme-stats)
 ### Hi there 👋
 
 - Graduate of TU Delft and University of Michigan.
