@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - Experienced Software Engineer and Computer Scientist.
-- Graduate of TU Delft and University of Michigan.
+- Graduate of TU Delft and University of Michigan Ann Arbor.
 - [Website](https://asarav.github.io/)
 - [LinkedIn](https://www.linkedin.com/in/avinash-saravanan-profile/)
 - [Medium](https://medium.com/@asarav)
