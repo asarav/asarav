@@ -5,7 +5,7 @@
 - [Website](https://asarav.github.io/)
 - [LinkedIn](https://www.linkedin.com/in/avinash-saravanan-profile/)
 - [Medium](https://medium.com/@asarav)
-- [Hackerrank](https://www.hackerrank.com/asarav?hr_r=1
+- [Hackerrank](https://www.hackerrank.com/asarav?hr_r=1)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asarav)](https://github.com/asarav/github-readme-stats)
 
