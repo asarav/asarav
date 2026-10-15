@@ -25,7 +25,7 @@
 ```python
 class Avinash:
     def __init__(self):
-        self.role      = "Experienced Software Engineer & Computer Scientist"
+        self.role      = "Experienced Software Engineer, Lead, & Computer Scientist"
         self.education = ["TU Delft 🇳🇱", "University of Michigan, Ann Arbor 〽️"]
         self.writes_on = "Medium"
         self.sharpens_skills_on = "HackerRank"
