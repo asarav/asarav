@@ -38,7 +38,13 @@ class Avinash:
 ## 🧰 Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,cs,react,docker,aws&perline=7" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,cs,react,docker,aws,postgres,github&perline=9" alt="tech stack" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
+  <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/OpenCode-211E1E?style=for-the-badge&logo=terminal&logoColor=white" alt="OpenCode" />
 </p>
 
 ## 📊 GitHub Activity
@@ -72,10 +78,6 @@ Whether you want to collaborate, swap ideas, or just say hi, my inbox (and Linke
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" alt="footer" />
 </p>
-
-<!--
-**asarav/asarav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
 
 <!--
 **asarav/asarav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
