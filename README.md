@@ -43,24 +43,18 @@ class Avinash:
 ## 🧰 Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,cpp,react,nodejs,spring,docker,kubernetes,aws,postgres,mongodb,git,linux&perline=8" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,cs,react,docker,aws&perline=7" alt="tech stack" />
 </p>
 
-<!-- Tip: swap the icons above for the tools you actually use. Full list: https://github.com/tandpfun/skill-icons -->
-
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=asarav&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asarav&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
-
-<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asarav&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
   <img src="https://streak-stats.demolab.com?user=asarav&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=asarav&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asarav&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph" />
 </p>
 
 ## ✍️ Latest from My Blog
@@ -79,9 +73,6 @@ Whether you want to collaborate, swap ideas, or just say hi, my inbox (and Linke
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" alt="footer" />
 </p>
 
-<!--
-**asarav/asarav** is a special repository because its README.md appears on your GitHub profile.
--->
 <!--
 **asarav/asarav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
