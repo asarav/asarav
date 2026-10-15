@@ -19,7 +19,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=asarav&label=Profile%20views&color=36BCF7&style=flat-square" alt="profile views" />
   <img src="https://img.shields.io/github/followers/asarav?label=Followers&style=flat-square&color=36BCF7" alt="followers" />
 </p>
 
