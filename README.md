@@ -18,10 +18,6 @@
   <a href="https://www.hackerrank.com/asarav?hr_r=1"><img src="https://img.shields.io/badge/HackerRank-Challenge%20me-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank"/></a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/asarav?label=Followers&style=flat-square&color=36BCF7" alt="followers" />
-</p>
-
 ---
 
 ## 👨‍💻 About Me
